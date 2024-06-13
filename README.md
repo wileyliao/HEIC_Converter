@@ -1,2 +1,2 @@
-# HEIC_imgConverter
+# HEIC_Converter
 convert HEIC img file
